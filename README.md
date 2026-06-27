@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/spate-einsicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Späte Einsicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spate-einsicht/) |
+| **Get License** | [Obtain a Music License for Späte Einsicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spate-einsicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e83e7d4c6344fa6bb402c629fc499f707165affa309435b658200abd10cd0bd1` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

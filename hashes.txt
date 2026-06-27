@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Späte Einsicht
+
+This log tracks the cryptographic history and versioning for the song **Späte Einsicht** (spate-einsicht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:28:40.010877 | `v1` | `e83e7d4c6344fa6bb402c629fc499f707165affa309435b658200abd10cd0bd1` | `b401f8ccd9f596afd9b56c2322acc9d929dbcfd9fdd13123fa3d89432041b87c` | `2026-06-27_spate-einsicht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
