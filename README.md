@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Wagen rollt vor, Baby, steig zu mir ein
+> Späte Einsicht, doch heut Nacht bist du endlich mein
+> City Lights zieh'n vorbei, meine Hand auf dei'm Bein
+> Dieser Vibe ist zu deep, lass uns rücksichtslos sein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
